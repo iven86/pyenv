@@ -1,0 +1,4 @@
+requests==2.22.0
+pyfiglet==0.8.post1
+pandas==1.0.4
+inquirer==2.7.0
